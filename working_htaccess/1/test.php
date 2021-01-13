@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <title>a</title>
+    </head>
+    <body>
+        <?php
+        echo'test';
+        ?>
+    </body>
+</html>
