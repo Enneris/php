@@ -1,4 +1,4 @@
 RewriteEngine On
 RewriteBase /
 
-RewriteRule /index([1-3]+)\.php /$1.php
+RedirectMatch /index([1-3]+)\.php /$1.php
